@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Laurent Smeets</title>
+    <link>https://LaurentSmeets.github.io/tags/</link>
+    <description>Recent content in Tags on Laurent Smeets</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jan 2019 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="https://LaurentSmeets.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bayesian</title>
+      <link>https://LaurentSmeets.github.io/tags/bayesian/</link>
+      <pubDate>Sun, 20 Jan 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://LaurentSmeets.github.io/tags/bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blavaan</title>
+      <link>https://LaurentSmeets.github.io/tags/blavaan/</link>
+      <pubDate>Sun, 20 Jan 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://LaurentSmeets.github.io/tags/blavaan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brms</title>
+      <link>https://LaurentSmeets.github.io/tags/brms/</link>
+      <pubDate>Thu, 06 Sep 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://LaurentSmeets.github.io/tags/brms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hlm</title>
+      <link>https://LaurentSmeets.github.io/tags/hlm/</link>
+      <pubDate>Wed, 05 Sep 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://LaurentSmeets.github.io/tags/hlm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jags</title>
+      <link>https://LaurentSmeets.github.io/tags/jags/</link>
+      <pubDate>Sat, 03 Nov 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://LaurentSmeets.github.io/tags/jags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lavaan</title>
+      <link>https://LaurentSmeets.github.io/tags/lavaan/</link>
+      <pubDate>Sat, 03 Nov 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://LaurentSmeets.github.io/tags/lavaan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mplus</title>
+      <link>https://LaurentSmeets.github.io/tags/mplus/</link>
+      <pubDate>Sat, 03 Nov 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://LaurentSmeets.github.io/tags/mplus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilevel</title>
+      <link>https://LaurentSmeets.github.io/tags/multilevel/</link>
+      <pubDate>Thu, 06 Sep 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://LaurentSmeets.github.io/tags/multilevel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Shiny</title>
+      <link>https://LaurentSmeets.github.io/tags/r-shiny/</link>
+      <pubDate>Sat, 03 Nov 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://LaurentSmeets.github.io/tags/r-shiny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stan</title>
+      <link>https://LaurentSmeets.github.io/tags/stan/</link>
+      <pubDate>Sun, 20 Jan 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://LaurentSmeets.github.io/tags/stan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://LaurentSmeets.github.io/tags/tutorial/</link>
+      <pubDate>Sun, 20 Jan 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://LaurentSmeets.github.io/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wambs</title>
+      <link>https://LaurentSmeets.github.io/tags/wambs/</link>
+      <pubDate>Sun, 20 Jan 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://LaurentSmeets.github.io/tags/wambs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

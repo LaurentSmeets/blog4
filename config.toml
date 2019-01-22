@@ -13,7 +13,7 @@ themesdir = "themes/"
     profileImage = "img/DSC_0109a - kopie_edited.jpg"
     email = "laurent.smeets@live.nl"
     #description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
-    favicon = "images/favicon.ico"
+    favicon = "img/favicon.ico"
     # what sections
     showSkills = true
     showProjects = true
