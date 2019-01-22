@@ -1,0 +1,17 @@
+{
+	"grouping" : "Skills",
+	"skills" : {
+		"R" : "90",
+		"SPSS" : "95",
+		"R shiny" : "80",
+		"Python" : "50",
+    "Adobe Creative Suite" : "65"
+
+	},
+  "languages" : {
+    "Dutch" : "100",
+    "English" : "98",
+    "Mandarin" : "30",
+    "Spanish" : "40"
+  }
+}

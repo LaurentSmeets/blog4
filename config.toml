@@ -1,3 +1,41 @@
-baseURL = "http://example.org/"
+baseURL = "https://LaurentSmeets.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Laurent Smeets"
+theme = "hugo-resume"
+themesdir = "themes/"
+
+[params]
+    firstName = "Laurent"
+    lastName = "Smeets"
+    address = "The Hague, Netherlands"
+    #phone = "1-555-555-1234"
+    #contactNote = "Data Scientist at Utrecht University"
+    profileImage = "img/DSC_0109a - kopie_edited.jpg"
+    email = "laurent.smeets@live.nl"
+    #description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = true
+    showOpenSource = false
+    showPublications = true
+    showEducation = true
+    showExperience = true
+
+    showTutorials = true
+
+
+    showQr = false
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/laurentsmeets/"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/LaurentSmeets"
+
+[[params.handles]]
+    name = "Wordpress"
+    link = "http://fromargentinatoalaska.com/"

@@ -1,0 +1,33 @@
+[
+  {
+      "role":"Research Intern",
+      "company":"Statistics Netherlands (CBS)",
+      "summary":"As a Research Intern I am working on automatic transport mode classification from GPS data. These data are collected as part of a pilot study by CBS to see if the traditional diary based transport survey can be automated by logging the location estimates of respondents' smart phone. More information on the project can be found here: https://www.cbs.nl/nl-nl/deelnemers-enquetes/deelnemers-enquetes/personen/cbs-verplaatsingen",
+      "range":"2018 - Present",
+      "location": "The Hague, The Netherlands"
+    },
+      {
+        "role":"Research Assistant",
+        "company":"Utrecht University",
+        "summary":"Designing online materials for a book on multilevel modelling.",
+        "range":"2017 - Present",
+        "location": "Utrecht, The Netherlands"
+    },
+    {
+      "role":"Intern",
+      "company":"Embassy of the Kingdom of the Netherlands",
+      "summary":"Writing a report the business climate in Rwanda and working on private sector development and analysing investment opportunities for Dutch companies in Rwanda.",
+      "range":"2016 - 2017",
+      "location": "Kigali, Rwanda"
+  },
+
+
+    {
+          "role":"Student Assistant",
+          "company":"Leiden University",
+          "summary":"Assistanting the university in designing a strategy to attract more students from Delft University to the Leiden Leadership Programme. For this I designed, spread and interpreted an online questionnaire.",
+          "range":"2014 - 2015",
+          "location": "Leiden, The Netherlands"
+      }
+
+]

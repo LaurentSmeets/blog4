@@ -1,0 +1,30 @@
+[
+    {
+        "school":"Utrecht University",
+        "degree":"Master of Science in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences",
+        "notes":"Succesfully completed the Utrecht University Honours Programme for master students",
+        "range":"2017 - 2019",
+        "gpa": "GPA: 8.9"
+    },
+    {
+        "school":"Yenching Academy of Peking University",
+        "degree":"LL.M in China Studies",
+        "notes":"Admitted as inaugural Yenching Scholar on a full scholarship.",
+        "range":"2015 - 2017",
+        "gpa": "GPA: 91/100"
+      },
+    {
+        "school":"Leiden University",
+        "degree":"Bachelor of Science in International Relations and Affairs",
+        "notes":"Simultaneously garduated the Honours Academy Faculty of Social Sciences",
+        "range":"2012 - 2015",
+        "gpa": "GPA: 8.2 (cum laude)"
+      },
+      {
+          "school":"McGill University",
+          "degree":"Exchange Programme",
+          "notes":"6 months Exchange Programme taking courses in political economy democratization theories, Middle Eastern Politics, and Economics.",
+          "range":"2014",
+          "gpa": "GPA 3.85/4"
+        }
+]
