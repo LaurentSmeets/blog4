@@ -1,11 +1,12 @@
 {
-  "title": "Bayesian Regression in Mplus",
-  "date": "2018-08-03T12:41:05-05:00",
-  "link": "https://www.rensvandeschoot.com/regression-in-mplus-bayesian/",
-  "description": "This tutorial provides the reader with a basic tutorial how to perform a Bayesian regression in Mplus.",
-  "tags": ["Mplus","tutorial", "Bayesian"],
+  "title": "WAMBS Mplus Tutorial",
+  "date": "2018-11-03T12:41:05-05:00",
+  "link": "https://www.rensvandeschoot.com/tutorials/wambs-mplus-tutorial/",
+  "description": "In this tutorial you follow the steps of the When-to-Worry-and-How-to-Avoid-the-Misuse-of-Bayesian-Statistics - checklist Mplus.",
+  "tags": ["Mplus","tutorial", "Bayesian", "WAMBS"],
   "fact": "",
   "featured":false
 }
 
-This tutorial provides the reader with a basic tutorial how to perform a **Bayesian regression** in [Mplus](https://www.statmodel.com/). Throughout this tutorial, the reader will be guided through importing data files, exploring summary statistics and regression analyses. Here, we will exclusively focus on [Bayesian](https://www.rensvandeschoot.com/a-gentle-introduction-to-bayesian-analysis-applications-to-developmental-research/) statistics.
+
+In this tutorial you follow the steps of the When-to-Worry-and-How-to-Avoid-the-Misuse-of-Bayesian-Statistics - checklist [(the WAMBS-checklist)](https://www.rensvandeschoot.com/wambs-checklist/) in Mplus
