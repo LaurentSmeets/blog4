@@ -8,4 +8,4 @@
   "featured":true
 }
 
-GET THIS TO SHOW UP UNDER Projects
+GET THIS TO SHOW UP UNDER Projects. this works now.
