@@ -13,3 +13,5 @@ This tutorial provides the reader with a basic tutorial how to perform a **Bayes
 Throughout this tutorial, the reader will be guided through importing data files, exploring summary statistics and regression analyses. Here, we will exclusively focus on [Bayesian](https://www.rensvandeschoot.com/a-gentle-introduction-to-bayesian-analysis-applications-to-developmental-research/) statistics.
 
 In this tutorial, we start by using the default prior settings of the software.  In a second step, we will apply user-specified priors, and if you really want to use Bayes for your own data, we recommend to follow the [WAMBS-checklist](https://www.rensvandeschoot.com/wambs-checklist/), also available in other software.
+
+**You can find the whole tutorial [here](https://www.rensvandeschoot.com/tutorials/bayesian-regression-blavaan/")**
